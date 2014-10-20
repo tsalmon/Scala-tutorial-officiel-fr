@@ -1,6 +1,6 @@
 #Contents
 
-* Introduction
+* [Introduction](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/Introduction.md)
 * Abstract Types
 * Annotations
 * Classes
