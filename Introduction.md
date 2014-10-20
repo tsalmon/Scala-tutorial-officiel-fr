@@ -1,6 +1,6 @@
 # Introduction
 
-## Scala est un langage moderne multi-paradigme conçu pour exprimer les patterns
+Scala est un langage moderne multi-paradigme conçu pour exprimer les patterns
 courants de programmation d'une manière concise, élégante et sûr.
 Il intègre entièrement les caractéristiques des langages orienté objet et
 fonctionnels
