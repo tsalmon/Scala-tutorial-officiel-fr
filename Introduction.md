@@ -75,7 +75,7 @@ souvent des domaines d'extensions spécifique de langages. Scala offre une
 combinaison unique de mécanique de langages qui lui permette d'ajouter
 facilement de nouvelles constructions de langages sous forme de bibliothèques:
 N'importe quelle méthode peut être utilisée comme un opérateur
-[infixe ou postfix](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/Operators.md), 
+[infixe ou postfix](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/Operators.md),
 [les clôtures](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/Automatic-closures.md)
 sont construites automatiquement en dépendant d'un type espéré
 (celui ciblé).
