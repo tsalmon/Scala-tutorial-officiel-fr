@@ -2,8 +2,8 @@ Traduction du [tutorial officiel](http://docs.scala-lang.org/tutorials/)
 
 #Contents
 
-* [Introduction](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/Introduction.md)
-* Abstract Types
+* [Introduction](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Introduction.md)
+* [Abstract] Types(https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Abstract-type.md)
 * Annotations
 * Classes
 * Case Classes
