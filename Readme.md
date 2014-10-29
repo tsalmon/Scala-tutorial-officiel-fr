@@ -5,7 +5,7 @@ Traduction du [tutorial officiel](http://docs.scala-lang.org/tutorials/)
 * [Introduction](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Introduction.md)
 * [Abstract-Type](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Abstracts-types.md)
 * [Annotations](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Annotation.md)
-* Classes
+* [Classes](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Classes.md)
 * Case Classes
 * Compound Types
 * Sequence Comprehensions
