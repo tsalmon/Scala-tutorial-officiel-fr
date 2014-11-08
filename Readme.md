@@ -8,7 +8,7 @@ Traduction du [tutorial officiel](http://docs.scala-lang.org/tutorials/)
 * [Abstract-Type](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Abstracts-types.md)
 * [Annotations](https://github.com/tsalmon/Scala-documentation-francaise/blob/master/pages/Annotation.md)
 * [Classes](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Classes.md)
-* Case Classes
+* [Case Classes](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Case-classes.md)
 * Compound Types
 * Sequence Comprehensions
 * Extractor Objects
