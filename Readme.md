@@ -10,7 +10,7 @@ Traduction du [tutorial officiel](http://docs.scala-lang.org/tutorials/)
 * [Classes](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Classes.md)
 * [Case Classes](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Case-classes.md)
 * [Compound Types](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/Compound-types.md)
-* Sequence Comprehensions
+* [Sequence Comprehensions](https://github.com/tsalmon/Scala-tutorial-officiel-fr/blob/master/pages/sequence-comprehensions.md)
 * Extractor Objects
 * Generic Classes
 * Implicit Parameters
