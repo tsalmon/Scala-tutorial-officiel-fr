@@ -29,5 +29,3 @@ Le type de retour de `unapply` devrait être choisi comme suit:
 Parfois, le nombre de sous-valeurs est fixé et on aimerait retourner une séquence. C'est pour cela que l'on peut définir les patterns, à l'instart de `unapplySeq`. Le dernier type de sous-valeur Tn doit être `Seq[S]`. Ce mécanisme est utilisé poru les instances dans les cas de `List(x1, ..., xn)`
 
 Les extracteurs peuvent produire du code plus maintenable. Pour plus de détails, lisez l'article [“Matching Objects with Patterns”](http://lampwww.epfl.ch/~emir/written/MatchingObjectsWithPatterns-TR.pdf) (voir la section 4) par Emir, Odersky et William (janvier 2007).
-
-Extractors can make code more maintainable. For details, read the paper “Matching Objects with Patterns” (see section 4) by Emir, Odersky and Williams (January 2007).
